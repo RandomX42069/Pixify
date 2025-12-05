@@ -3,7 +3,7 @@ What is Pyxify?
 Pyxify is a Python tool (Made by RandomX42069) that is used to parse C syntax or any other syntaxes in Python files
 
 # Tests
-`tests/trfjotld.py` - "The red fox jumps over the lazy dog.py" is used to test all features
+`tests/trfjotld.py` - "The quick brown fox jumps over the lazy dog" is used to test all features
 
 # Command Line
 Example:
